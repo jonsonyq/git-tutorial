@@ -6,3 +6,6 @@ add second line after update.
 
 add new line for new branch 'feature-A'
 -- fix-B
+
+-- feature-C
+
